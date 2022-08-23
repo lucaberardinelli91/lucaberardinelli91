@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as iOS Developer in [IQUI](https://iquii.com)
+🔭 I’m currently working as iOS Developer in [IQUI](https://iquii.com)
 
-[LinkedIn](https://www.linkedin.com/in/berardinelli-luca/)
+My background [LinkedIn](https://www.linkedin.com/in/berardinelli-luca/)
