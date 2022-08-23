@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working as iOS Developer in [IQUI](https://iquii.com).<br>
-My professional background [LinkedIn](https://www.linkedin.com/in/berardinelli-luca/).
+⚡ I’m currently working as iOS Developer in [IQUI](https://iquii.com).<br>
+⚡ My professional background [LinkedIn](https://www.linkedin.com/in/berardinelli-luca/).
 
 **About me**
 I have 6 years of experience as Software Developer.
