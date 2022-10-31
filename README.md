@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working as iOS Dev in [IQUII](https://iquii.com).<br>
+I’m currently working as iOS Dev in [Beasy4BIZ](https://www.linkedin.com/company/beasy4biz/mycompany/).<br>
 My professional background [LinkedIn](https://www.linkedin.com/in/berardinelli-luca/).<br>
 
 ### About me
